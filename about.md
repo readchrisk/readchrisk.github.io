@@ -27,7 +27,9 @@ Empathetic, creative, and business-minded IT Infrastructure leader with 19 years
 - Managed Information Security, GDPR/CCPA, and ISO 27001 compliance
 - Built disaster recovery and business continuity plans to ensure a <24 hour RPO
 - Optimized and managed SaaS systems, cost, and budget, reducing SaaS - budget by ~40%
+
 **Technologies used:** AWS, GCP, Okta, SAML, Slack, Zoom, JAMF, Google Workspace, Office 365, Zoom, Atlassian Jira, AV systems, Cisco Meraki 
+
 **AWS** CloudWatch, Cloudtrail, S3, EC2, ECS, EKS, VPCs, ELBs, CloudFormation
 
 ### IT Manager
