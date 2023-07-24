@@ -110,6 +110,11 @@ California State University, Sacramento | Graduated in 2003
 - Migrated and consolidated VoIP and Video services to a single solution using Zoom, Zoom Rooms, and Zoom Phone
 - Established a formal Software and services review process at Realself for the onboarding of new software, systems and 3rd parties. Incorporated Legal, Privacy, Finance and stakeholder review in a formalized process to ensure all new systems introduced to the organization met internal policies and security best practices
 
+**2019**
+- My IT Team’s solution to the question: “I need to track walk-up help desk requests. How can we make this easy and fun for customers and IT?” The solution, Ticketbot!  
+“So, how do we track Walkup interactions for metrics and issue tracking? Maybe leverage the solution to build our brand as a fun, approachable Support Department? We’re going to wire a large arcade-style button to a Raspberry Pi so the entire process for a User to log a Walkup ticket is a single button push”
+https://www.millsymills.com/projects/ticketbot-push-button-receive-ticket-ckc8w
+
 **2020**
 - Shifted the IT operations of Realself.com to support a work from home environment during the pandemic.
 - Promoted to “Head of Infrastructure” and consolidated management of IT, Devops, Data Engineering, and Information Security to my team
