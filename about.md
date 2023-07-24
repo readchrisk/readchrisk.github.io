@@ -119,7 +119,7 @@ California State University, Sacramento | Graduated in 2003
 integration environment where all merges to the main branch automatically get deployed to a new “Staging” environment. This resulted in a significantly improved deploy, test, and rollback process that improved developer efficiency, deploy frequency and reduced change lead time.
 
 **2021 - 2023**
-Drove the efforts to containerize AWS EC2 applications managed by chef to run in ECS using CloudFormation
+- Drove the efforts to containerize AWS EC2 applications managed by chef to run in ECS using CloudFormation
 
 **2022**
 - Migrated RabbitMQ messaging infrastructure to Amazon MQ
