@@ -20,8 +20,6 @@ Empathetic, creative, and business-minded IT Infrastructure leader with 19 years
 ### Head of Infrastructure
 *Sept 2020 - June 2023 | Realself, Seattle WA (Remote)*
 
-- Things you did/do here
-- More things that you do here.
 - Led a strong team of Help Desk, IT Admins, DevOps, and Data Engineers > - Drove 99%+ CSAT scores and averaged less than 30 min RTO on system outages
 - Collaborated with stakeholders to develop project plans and roadmaps to - align with business needs
 - Managed Information Security, GDPR/CCPA, and ISO 27001 compliance
